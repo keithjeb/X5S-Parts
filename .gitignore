@@ -102,3 +102,6 @@ ENV/
 
 #includes
 BOSL/
+
+#renders
+*.stl
